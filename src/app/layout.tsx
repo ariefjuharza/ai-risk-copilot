@@ -7,6 +7,9 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'AI Compliance & Risk Copilot',
   description: 'Audit SOP operasional Anda sebelum risiko menjadi insiden.',
+  other: {
+    'dicoding:email': 'ariefjuharza@gmail.com'
+  }
 };
 
 export default function RootLayout({
