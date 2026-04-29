@@ -1,5 +1,3 @@
----
-
 ### **Informasi Peserta**
 
 | No | Nama | Email Dicoding |
@@ -48,5 +46,4 @@ Berikut adalah penjabaran fitur-fitur utama beserta dukungan teknologi pada Risk
 * ### **Informasi Pendukung [Opsional]**
 
 *   **Repository Kode Sumber (GitHub):** [https://github.com/ariefjuharza/ai-risk-copilot](https://github.com/ariefjuharza/ai-risk-copilot)
-*   **Visi Pengembangan Lanjutan (Post-Hackathon):** Integrasi sistem otentikasi **Microsoft Entra ID** bagi internal *Compliance Officer*, serta penyelarasan dengan **Azure DevOps** agar penemuan risiko Kritis bisa langsung dikonversi menjadi sebuah *Tiket Pekerjaan/IT Task*. Kami juga merencanakan penggunaan **Azure Document Intelligence** (OCR) di tahap akhir, sehingga aplikasi ini mampu menelan langsung format PDF orisinal peraturan alih-alih terbatas pada teks *(plain-text)* saja. 
----
+*   **Visi Pengembangan Lanjutan (Post-Hackathon):** Integrasi sistem otentikasi **Microsoft Entra ID** bagi internal *Compliance Officer*, serta penyelarasan dengan **Azure DevOps** agar penemuan risiko Kritis bisa langsung dikonversi menjadi sebuah *Tiket Pekerjaan/IT Task*. Kami juga merencanakan penggunaan **Azure Document Intelligence** (OCR) di tahap akhir, sehingga aplikasi ini mampu menelan langsung format PDF orisinal peraturan alih-alih terbatas pada teks *(plain-text)* saja.
