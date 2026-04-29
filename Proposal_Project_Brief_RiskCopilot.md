@@ -2,7 +2,7 @@
 
 | No | Nama | Email Dicoding |
 | :---: | :---: | :---: |
-| 1 | [Arif Juharza] | [ariefjuharza@gmail.com] |
+| 1 | Arif Juharza | ariefjuharza@gmail.com |
 
 * ### **Topik : Kepatuhan Regulasi dan Keamanan Data** 
 

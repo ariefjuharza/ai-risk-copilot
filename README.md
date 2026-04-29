@@ -1,6 +1,6 @@
 # RiskCopilot - AI Compliance & Risk Copilot
 
-![RiskCopilot Banner](/public/window.svg) <!-- Opsional: Anda dapat mengganti dengan banner logo buatan sendiri -->
+![RiskCopilot Banner](/public/copilot-icon.svg) <!-- Opsional: Anda dapat mengganti dengan banner logo buatan sendiri -->
 
 **RiskCopilot** adalah platform cerdas (copilot) berbasis teks yang dirancang untuk mencegah pelanggaran kepatuhan operasional (compliance) dan kebocoran data. Aplikasi ini memungkinkan para profesional IT, Compliance Officer, dan pemangku kepentingan untuk mengaudit Prosedur Operasi Standar (SOP) dan alur kerja (workflow) **sebelum** proses tersebut diimplementasikan.
 
